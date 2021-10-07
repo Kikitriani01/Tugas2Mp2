@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kiki</string>
+    <string name="content_text"> Helm SNI</string>
+    <string name="texxt"> helm yang melindungi anda dari kecelakaan. </string>
+    <string name="content_specs_bahan">Plastik </string>
+    <string name="content_specs_warna">Cream/Black </string>
+    <string name="content_specs_size">M</string>
+    <string name="content_price">Rp. 100.000</string>
+    <string name="_6_photo">2 Photo</string>
+    <string name="bahan">Bahan</string>
+    <string name="warna">Warna</string>
+    <string name="size">Size</string>
+    <string name="diskon_18">Ongkir gratis</string>
+    <string name="todo">TODO</string>
+</resources>
